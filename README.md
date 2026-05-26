@@ -1,25 +1,75 @@
-<h1 align="center">Hi 👋, I'm Akshay Iyer</h1>
-<h3 align="center">Finance Major | Entrepreneurship Concentration @ Rutgers Business School '27</h3>
+# Akshay Iyer — Growth Marketer & Operator
 
-- 🔭 I’m currently working on [Crocs Inc (NASDAQ: CROX) LBO Model](https://docs.google.com/spreadsheets/d/1p6Y2dqZ6woKCgSNmJ10XhOm9Va4YqVbo/edit?usp=sharing&ouid=100028767499768340505&rtpof=true&sd=true)
+I build content engines, growth systems, and AI tools that 
+turn attention into pipeline and revenue.
 
-- 🌱 I’m currently learning **advanced financial modeling, LBO and DCF frameworks, Excel automation, and portfolio optimization techniques. I'm also diving into courses on investment analysis, private wealth strategy, and fundamentals of data science for finance. I’ve completed certifications in entrepreneurship and innovation through the Moreton Bay Regional Council (Forage), and in online learning skills from Rutgers University. These experiences have strengthened my ability to approach financial strategy, creative problem-solving, and self-driven learning.**
+Most marketers talk about growth. I ship proof.
 
-- 👯 I’m looking to collaborate on [hands-on finance projects including valuation models, LBO case studies, stock pitch frameworks, and Excel-based portfolio tools. I'm especially interested in work that aligns with private banking, investment research, or client strategy within wealth management.](https://docs.google.com/presentation/d/14IiJj1RmsNZFK5IQCsYAmCnR8WiI91vQx7yKwqtpQbU/edit?usp=sharing)
+---
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1VX2OH8c0oRGWreYy71JmuIx-S7bJmFop?usp=drive_link](https://drive.google.com/drive/folders/1VX2OH8c0oRGWreYy71JmuIx-S7bJmFop?usp=drive_link)
+## What I Do
 
-- 💬 Ask me about **LBO modeling, DCF valuation, IRR analysis, capital structure, scenario modeling, free cash flow forecasting, equity research, and sourcing financial data from 10-Ks and market platforms like Yahoo Finance.**
+- Build content-led acquisition systems that compound over time
+- Launch and manage creator campaigns with tracked business outcomes
+- Design and deploy AI-powered marketing tools
+- Operate full-funnel growth from awareness to revenue
+- Turn data into decisions — analytics, attribution, experimentation
 
-- 📫 How to reach me **akshay.iyer10@gmail.com**
+---
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ErXBfrv0bHJ8GW5hVDTL8TauFmeB_1lZSUtwtnqWHvs/edit?usp=sharing](https://docs.google.com/document/d/1ErXBfrv0bHJ8GW5hVDTL8TauFmeB_1lZSUtwtnqWHvs/edit?usp=sharing)
+## Proof
 
-- ⚡ Interests **Percussion & Drumming, Competitive Basketball, Self-Help Reading, Music Production & Beat-Making**
+- 90K+ followers across Instagram, TikTok, and YouTube
+- 150K+ average views per post through systematic content experimentation
+- $8K+ revenue from brand deals and digital products
+- 1M+ impressions and 400+ attributable Amazon sales 
+  via Vic Firth creator campaign
+- Marketing Operations Intern @ Milliman MedInsight
+- Built and deployed AI GTM Analyzer used to audit 
+  startups pre-outreach
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-iyer-ab64ba259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-iyer-ab64ba259/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/akshayiyer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshayiyer/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@akshayiyerofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@akshayiyerofficial" height="30" width="40" /></a>
-</p>
+---
+
+## What I'm Building This Summer
+
+Three parallel proof engines:
+
+**1. Milliman MedInsight Internship**
+Marketing operations inside a healthcare data analytics company.
+Owning campaigns end-to-end. Tracking every metric.
+Building real B2B marketing proof.
+
+**2. Personal Brand & Creator Lab**
+90K+ audience across platforms.
+Running content experiments, building a content-to-product funnel,
+and documenting every growth variable.
+
+**3. AI Marketing Tools**
+Building and deploying AI-powered tools that demonstrate
+the combination of marketing strategy depth and technical execution.
+
+---
+
+## Tech & Tools
+
+Marketo · Salesforce · HubSpot · Apollo · Google Analytics · 
+Claude API · Next.js · Vercel · Notion · CapCut · Canva · 
+Google Looker Studio · Beehiiv
+
+---
+
+## Target
+
+Founding Growth Lead · Head of Growth · Content & Growth Lead
+at a seed or Series A startup where I can own the GTM motion
+and generate results from day one.
+
+Available: May 2027 (open to part-time during senior year)
+
+---
+
+## Education
+
+Rutgers Business School
+B.S. Marketing & Business Analytics (BAIT)
+GPA: 3.55 | Dean's List x3 | Class of 2027
