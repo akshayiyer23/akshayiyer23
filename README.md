@@ -2,7 +2,7 @@
 
 I build AI agents for GTM teams and content engines that turn attention into pipeline, revenue, and measurable business outcomes.
 
-Most marketers talk about growth. I ship proof.
+Most marketers talk about growth, I ship proof!
 
 ---
 
