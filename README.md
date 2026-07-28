@@ -1,4 +1,4 @@
-# Akshay Iyer — Aspiring GTM & Growth Engineer
+# Akshay Iyer — GTM & Growth Engineer
 
 I build AI systems that make go-to-market motions run: research agents, enrichment pipelines, and CRM automation that turn raw lead lists into qualified, sourced pipeline. I also run the growth side, so the systems I build are aimed at the number, not the demo.
 
