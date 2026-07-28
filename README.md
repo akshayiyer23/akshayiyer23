@@ -1,79 +1,65 @@
-# Akshay Iyer — AI GTM Engineer & Growth Marketer
+# Akshay Iyer — Aspiring GTM & Growth Engineer
 
-I build AI agents for GTM teams and content engines that turn attention into pipeline, revenue, and measurable business outcomes.
+I build AI systems that make go-to-market motions run: research agents, enrichment pipelines, and CRM automation that turn raw lead lists into qualified, sourced pipeline. I also run the growth side, so the systems I build are aimed at the number, not the demo.
 
-Most marketers talk about growth, I ship proof!
+I ship working pipelines, not slide decks.
 
----
+## What I build
 
-## What I Do
-- Build and deploy AI agents for GTM workflows using Claude API, Python, and Next.js
-- Build content-led acquisition systems that compound over time
-- Run growth experiments across social, content, and paid channels
-- Launch creator campaigns tied to measurable business outcomes
-- Operate full-funnel growth from awareness to conversion
-- Turn analytics into decisions through attribution, testing, and optimization
+- Gated AI research and enrichment pipelines (Clay, Claygent, ZeroBounce, HubSpot)
+- AI agents for GTM workflows using the Claude API, Python, and Next.js
+- CRM automation and data write-back with typed, sourced fields
+- Full-funnel growth systems that tie content and paid to revenue
+- Experiment frameworks that turn analytics into decisions
 
----
+## Featured builds
 
-## Proof
-- 100K+ audience across Instagram, TikTok, and YouTube
-- 10M+ views across personal brand content
-- $10K+ generated through brand partnerships and digital products
-- 1M+ impressions and 400+ attributable Amazon sales through Vic Firth creator campaign
-- Grew Milliman MedInsight weekly LinkedIn impressions from 1,400 to 15,976 in one week (1,041%)
-- Launched Data Drip newsletter to 1,600+ subscribers end-to-end
-- Co-designed AI brand compliance agent using Claude and Microsoft Copilot Studio at Milliman MedInsight
-- Built and deployed AI GTM Analyzer — live web app that audits startup GTM strategy in seconds
-- Built Content Experiment Lab using real audience data across 2M+ views
+### Gated AI Lead-Research Agent
+A lead-research pipeline that runs AI on a lead only after it passes a data-quality gate, and only when the agent can cite a real source. Verify email, match company, gate on both, research with a browsing agent, force a refusal when evidence is thin, write typed results to HubSpot.
 
----
+On a 15-lead test set the gate skipped 47% of AI calls and produced zero fabricated fields. Every researched row came back with a dated, sourced buying signal.
 
-## Featured Builds
+Repo: github.com/akshayiyer23/gated-ai-lead-research-agent
+Stack: Clay · Claygent (Argon) · ZeroBounce · HubSpot
 
 ### AI GTM Analyzer
-Full-stack AI web app built with Next.js and Claude API generating go-to-market diagnostics for any startup in seconds.
-
-Outputs: ICP definition · GTM motion · Channel performance · Funnel gaps · Revenue recommendations
+A full-stack AI web app that generates go-to-market diagnostics for any startup in seconds. Combines real-time web scraping with the Claude API to output ICP, GTM motion, channel performance, funnel gaps, and revenue recommendations. Used in real outreach to book a meeting with a Series A CEO.
 
 Live: project-1-eta-jade.vercel.app
+Stack: Next.js · Claude API · Vercel · JavaScript
+
+### AI Brand Compliance Agent (Milliman MedInsight)
+Scoped and built an AI agent using the Claude API and Microsoft Copilot Studio that automates brand-compliant PowerPoint creation across a marketing team, cutting manual revision cycles. Deployed inside an enterprise environment.
+
+Stack: Claude API · Microsoft Copilot Studio · Next.js
 
 ### Content Experiment Lab
-Documented A/B testing framework built on real audience data from a 100K+ personal brand.
-
-Key findings: open-loop captions outperformed descriptive captions by 2,344% · niche hashtags drove 101x more saves · every 1,000 saves correlates to ~526 follows
+A documented A/B testing framework built on real audience data from a 100K+ personal brand. Open-loop captions outperformed descriptive ones by 2,344%. Niche hashtags drove 101x more saves. Every 1,000 saves correlated to ~526 follows.
 
 Live: content-lab-one.vercel.app
 
----
+## Current role
 
-## Current Work
+**Growth Intern @ Milliman MedInsight** (May 2026 – Sep 2026)
+- Scoped and deployed the AI brand compliance agent above (Claude + Copilot Studio)
+- Scaled weekly LinkedIn impressions from 1,400 to 15,976 in one week (1,041%) with event-driven content and a $500 paid boost
+- Launched and own the Data Drip newsletter to 1,600+ subscribers end-to-end
+- Wrote a $3K ad-spend use case presented to senior leadership, driving an immediate budget decision
+- Working across Marketo, Salesforce, HubSpot, Gong, Highspot, Crayon, GA4, and LinkedIn Campaign Manager
 
-### Growth Intern @ Milliman MedInsight
-- Scaled LinkedIn impressions 1,041% in one week through event-driven content strategy
-- Launched and own Data Drip newsletter to 1,600+ subscribers
-- Co-designing AI brand compliance agent using Claude and Microsoft Copilot Studio
-- Built $3K LinkedIn ad spend use case presented to senior leadership
-- Onboarded across Marketo, Salesforce, Gong, Highspot, Crayon, GA4, and LinkedIn Campaign Manager
+## Stack
 
----
-
-## Tech & Tools
-Python · Claude API · Next.js · FastAPI · Vercel · GitHub · Marketo · Salesforce · HubSpot · Apollo · Google Analytics · GA4 · LinkedIn Campaign Manager · Beehiiv · Canva · Gong · Highspot · Crayon
-
----
+**Build:** Python · Claude API · Next.js · FastAPI · Vercel · GitHub
+**GTM engineering:** Clay · Claygent · ZeroBounce · HubSpot · Apollo · Salesforce · Marketo
+**Analytics:** Google Analytics · GA4 · LinkedIn Campaign Manager
+**Other:** Gong · Highspot · Crayon · Canva · Beehiiv
 
 ## Target
-AI GTM Engineer · Founding Growth Lead · Growth Marketing Intern · AI Marketing Operator
 
-Focused on AI-native and seed/Series A startups where I can own the GTM motion, build agents, and generate measurable results from day one.
+GTM Engineer · Growth Engineer · Founding Growth roles at AI-native seed and Series A startups, where I can own the GTM motion, build the agents, and move the number from day one.
 
-Available for part-time or internship roles starting September 2026.
-Available full-time May 2027.
-
----
+Available part-time or contract from September 2026. Full-time from May 2027.
 
 ## Education
-Rutgers Business School
-B.S. Marketing & Business Analytics and Information Technology (BAIT)
-GPA: 3.55 · Dean's List: Fall 2023, Spring 2024, Fall 2024 · Class of 2027
+
+Rutgers Business School — B.S. Marketing and B.S. Business Analytics and Information Technology (BAIT). GPA 3.55. Dean's List (3 semesters). Class of 2027.
