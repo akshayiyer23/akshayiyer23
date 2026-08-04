@@ -19,7 +19,7 @@ On a 15-lead test set the gate skipped 47% of AI calls and produced zero fabrica
 Repo: github.com/akshayiyer23/gated-ai-lead-research-agent
 Stack: Clay · Claygent (Argon) · ZeroBounce · HubSpot
 
-### Drumming GTM Engine
+### Personal Brand GTM Engine
 A two-part GTM system I built to scale cold outbound for my own drumming business ($8,300 closed across 8 deals, 76% inbound). Clay handles research and scoring: find the decision-maker at each target studio, research a real pitch angle with a gated AI agent that refuses to fabricate, and score fit on two axes. n8n handles the intake-to-CRM spine: a webhook pipeline with two validation gates (has domain, has findable email) and an idempotent HubSpot upsert. Tested end to end, a real lead flowed through both gates and created a contact with zero errors.
 
 Repo: github.com/akshayiyer23/drumming-gtm-engine
