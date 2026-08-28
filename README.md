@@ -10,24 +10,16 @@ I build the systems behind marketing and go-to-market. Content agents that draft
 
 ## Featured builds
 
-### MedInsight Newsletter Agent
+**MedInsight Newsletter Agent**
 An internal tool that drafts Milliman MedInsight's two newsletters in the team's house voice. You paste the source links. It fetches each article, pulls the content, and drafts a full edition with a header, body, and CTA per block, in the right format for either the LinkedIn Data Drip newsletter or the client email. I built it to systematize newsletter drafting I owned by hand over the summer. It drafts, a person reviews and ships.
-
 Live: medinsight-newsletter-agent.vercel.app · Repo: medinsight-newsletter-agent · Stack: Next.js, Claude API, Vercel
 
-### AI Brand Compliance Agent (Milliman MedInsight)
+**AI Brand Compliance Agent (Milliman MedInsight)**
 A Claude Skill that builds brand-compliant presentations, decks, and visuals from a prompt, and fixes existing assets to match brand guidelines. Built and demoed company-wide, with early adoption on the marketing team and rollout to 200+ employees in progress.
-
 Repo: brand-compliance-agent · Stack: Claude Skill (SKILL.md), Microsoft Copilot Studio
 
-### Personal Brand GTM Engine
-A GTM system I built to scale cold outbound for my drumming business. $8,300 closed across 8 deals, 76% inbound. Clay finds the decision-maker at each target and researches a pitch angle, and n8n runs the pipeline from intake to a clean HubSpot contact. I tested it end to end with a real lead and it created the contact with zero errors.
-
-Repo: personal-brand-gtm-engine · Stack: Clay, n8n, Hunter, HubSpot
-
-### AI GTM Analyzer
+**AI GTM Analyzer**
 A full-stack AI web app that generates go-to-market diagnostics for any startup in seconds: ICP, GTM motion, channel performance, funnel gaps, and revenue recommendations. I used it in real outreach to book a meeting with a Series A CEO.
-
 Live: project-1-eta-jade.vercel.app · Stack: Next.js, Claude API, Vercel
 
 ## Current role
@@ -39,9 +31,9 @@ Growth Intern @ Milliman MedInsight (May 2026 to Sep 2026)
 - Work across Marketo, Salesforce, HubSpot, Gong, Highspot, Crayon, GA4, and LinkedIn Campaign Manager
 
 ## Stack
-**Build:** Python, Claude API, Claude Skills, Next.js, Vercel, GitHub
-**Marketing and GTM engineering:** Clay, n8n, Hunter, HubSpot, Apollo, Salesforce, Marketo
-**Analytics:** Google Analytics, GA4, LinkedIn Campaign Manager
+Build: Python, Claude API, Claude Skills, Next.js, Vercel, GitHub
+Marketing and GTM engineering: Clay, n8n, Hunter, HubSpot, Apollo, Salesforce, Marketo
+Analytics: Google Analytics, GA4, LinkedIn Campaign Manager
 
 ## Target
 Marketing Engineer, GTM Engineer, and Founding Growth roles at AI-native seed and Series A startups, where I build the agents and systems that give the team leverage and move the number from day one.
