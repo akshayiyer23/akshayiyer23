@@ -1,4 +1,4 @@
-# Akshay Iyer — Marketing Engineer & GTM Engineer
+# Akshay Iyer — Growth & GTM Engineer
 
 I build the systems behind marketing and go-to-market. Content agents that draft in a brand's own voice, outbound pipelines that turn raw lists into real prospects, and CRM automation that ties the work to revenue. I build the machine, and I run the growth side too, so what I build points at the number.
 
